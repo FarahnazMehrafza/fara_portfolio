@@ -26,7 +26,7 @@ export default function Home() {
             hey, I&#39;m
           </p>
           <p className="font-semibold text-7xl mb-4 mt-2 capitalize">
-          *Farahnaz Mehrafza*
+          * Farahnaz Mehrafza *
           </p>
           <p className="md:w-3/4 lg:w-[38rem]">
           A technogy  , self-motivated and
