@@ -13,7 +13,7 @@ export default function Home() {
           <div className="h-[150px] w-[150px] mb-6 border-4 border-gray-200 dark:border-gray-700 rounded-full">
             <Image
               src={phyu}
-              alt="Farahnaz Mehrafza"
+              alt="* Farahnaz Mehrafza *"
               width={150}
               height={150}
               placeholder="blur"
