@@ -31,7 +31,7 @@ export default function MobileLinks({ close }) {
       </Link>
 
       <a
-        href="/farahn"
+        href="/farahna"
         rel="noreferrer"
         target={"_blank"}
         className="block w-0 px-3 py-2 font-medium hover:text-green dark:hover:text-mustard"

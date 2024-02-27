@@ -15,7 +15,7 @@ export default function About() {
           </p>
           <div className="mt-6 leading-7">
             <p className="mb-6">
-              Hi, I&#39;m Farahnaz Mehrafza. I&#39;m a FullStack developer. 
+              Hi, I&#39;m *Farahnaz Mehrafza*. I&#39;m a FullStack developer. 
               I enjoy seeking out creative solutions to complex problems.
               Fast forward to today, I developed and implemented high-preformance
               web applications using cutting-edge technologies.  am passionate
