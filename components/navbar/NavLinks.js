@@ -10,7 +10,7 @@ export default function NavLinks() {
           <Link href="/">home</Link>
         </StyledNavLink>
         <StyledNavLink>
-          <Link href="/about">aboOut</Link>
+          <Link href="/about">about</Link>
         </StyledNavLink>
         <StyledNavLink>
           <Link href="/projects">projects</Link>

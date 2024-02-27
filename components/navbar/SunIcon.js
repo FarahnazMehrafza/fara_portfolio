@@ -67,6 +67,5 @@ export default function SunIcon() {
         strokeWidth="1.5"
         d="M7.93405 7.93423L6.74991 6.75003"
       ></path>
-    </svg>
-  );
+    </svg> );
 }

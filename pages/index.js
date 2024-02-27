@@ -1,6 +1,6 @@
 import Image from "next/image.js";
 import Link from "next/link.js";
-import sneha from "../public/img/sneha.jpg";
+/*import sneha from "../public/img/"sneha.jpg; */
 import Layout from "../components/Layout.js";
 import phyu from "../public/img/Farahnaz.jpg";
 
