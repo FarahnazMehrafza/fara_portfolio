@@ -1,5 +1,15 @@
 export const projectData = [
   {
+    name: "Magco.ir",
+    alt: "mehrafrooz- gharin company website",
+    img: "/img/magco.jpg",
+    description:
+      " Mehrafrooz Gharin company is an Iranian  manufactory which produce expantion tanks and sells it online  ",
+    techStack: "CSS, React.js, Javascripts, wordpress",
+    live: "https://www.magco.ir/",
+    /**code: "https://github.com/sneharatnani/notewind",*/
+  },
+  {
     name: "NoteWind",
     alt: "A device showing screenshot of notewind project",
     img: "/img/notewind.png",
